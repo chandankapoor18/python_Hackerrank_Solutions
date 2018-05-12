@@ -1,1 +1,3 @@
-#python solutions for hackerrank
+#python solutions for hackerrank.
+
+Hello charmers.
